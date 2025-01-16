@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "212077945773",
+    "firebase_url": "https://y4s1-projectpracticum-default-rtdb.firebaseio.com",
+    "project_id": "y4s1-projectpracticum",
+    "storage_bucket": "y4s1-projectpracticum.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212077945773:android:7dd36b5eb9258a88827724",
+        "android_client_info": {
+          "package_name": "com.example.projectpracticum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdC58pfRKpuqbSDSE-y05Jc6ov-D3NE5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

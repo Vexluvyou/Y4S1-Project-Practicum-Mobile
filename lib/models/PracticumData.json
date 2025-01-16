@@ -1,0 +1,203 @@
+{
+    "Banner": [
+      {
+        "url":"https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Discount%201.png?alt=media&token=3ed5f57e-7274-457b-afaa-8d1dea64edd4"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Discount%202.png?alt=media&token=01170f15-0748-4e0c-8581-88bf9320448c"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Slider%20Banner2.jpg?alt=media&token=c8bf2d87-ed7f-45cc-8926-d95b9828f2c5"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Slider%20Banner3.jpg?alt=media&token=6a05acdc-1323-4a56-8142-cb5248d77ae1"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Slider%20Banner4.jpg?alt=media&token=94e62189-9a96-4803-a1df-17bbdea4db84"
+      }
+    ],
+    "Category": [
+      {
+        "id": 0,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Msi%20logo.png?alt=media&token=97aaf5bf-8d8f-4845-a7d5-2778c748c7fb",
+        "title": "Msi"
+      },
+      {
+        "id": 1,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Asus%20logo.png?alt=media&token=70f0604a-04e9-4de1-8c3d-5504ba4e8690",
+        "title": "Asus"
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Dell%20logo.png?alt=media&token=76f9fe36-53c1-4eae-9ea1-4d38e9c1d310",
+        "title": "Dell"
+      },
+      {
+        "id": 3,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Hp%20logo.png?alt=media&token=1fcec3b2-03a1-48a2-8ec4-fe140e43545d",
+        "title": "Hp"
+      },
+      {
+        "id": 4,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Lenovo%20logo.png?alt=media&token=55b35fed-3e03-4e03-8608-361aa2625246",
+        "title": "Lenovo"
+      },
+      {
+        "id": 5,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Apple%20logo.png?alt=media&token=1a1c6f09-2967-4c29-b6ec-54122f76f513",
+        "title": "Apple"
+      }
+    ],
+
+    "Items": [
+      {
+        "description": "CPU: Intel Core™ i3-N305, OS: Window 11Home SL License, RAM: 8GB DDR4 on board, Storage: SSD 512GB M.2, Graphic: Intel® UHD Graphics, Display: 15.6FHD (1920x1080), Battery: 3-cell, Weight: 1.63 kg, Warranty: 2years,",
+        "oldPrice": 389,
+        "imageUrl": [
+          "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Asus%20Vivobook1.png?alt=media&token=8f71d30b-543d-49da-8b75-8f1738b211da",
+          "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Asus%20Vivobook2.png?alt=media&token=02f2d799-cf06-4248-b3b5-ca607f46ee0f",
+          "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Asus%20Vivobook3.png?alt=media&token=d5cc8538-9485-4941-bd84-df0b8c36f904",
+          "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Asus%20Vivobook4.png?alt=media&token=15f3e6c3-0c6c-4e0e-be0a-72a7b6a5ddd4"
+        ],
+        "price": 369,
+        "rating": 4.6,
+        "review": 10,
+        "title": "ASUS Vivobook Go15 E1504GA-NJ406W Black i3-N305-8GB-512GB SSD-15.6''FHD-42WHr-Backlit KB-BP-Win11-3Y"
+      },
+
+      {
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. ",
+        "oldPrice": 890,
+        "imageUrl": [
+          "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Lenovo%20thinkpad1.png?alt=media&token=9e65ae13-6bec-4f42-8a1a-2c0d77ca583d",
+          "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Lenovo%20thinkpad2.png?alt=media&token=6fd2a35b-b1b2-44f1-af80-9a046ac795b0"
+        ],
+        "price": 869,
+        "rating": 4.8,
+        "review": 45,
+        "title": "Lenovo ThinkPad E14 Gen5 Black i7-1355U-8GB-512GBSSD M.2-UMA-14-inch WUXGA-NonTouch-DOS-3Cell 47Wh 1Y"
+      },
+
+      {
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. ",
+        "oldPrice": 1159,
+        "imageUrl": [
+          "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Dell%20inspiron1.png?alt=media&token=1c1f5369-a83d-45f0-9c8a-f8a7dc3f7e96",
+          "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Dell%20inspiron2.png?alt=media&token=8482239a-2c16-4dba-949a-005ba411715c",
+          "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Dell%20inspiron3.png?alt=media&token=bc222caa-30db-4eb4-8084-0e5755d35394",
+          "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Dell%20inspiron4.png?alt=media&token=656a9368-f547-4907-b1af-eb315197a580",
+          "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Dell%20inspiron5.png?alt=media&token=476647de-9bf4-4abc-8d0c-ea5f0ec1fa12"
+        ],
+        "price": 899,
+        "rating": 4.5,
+        "review": 10,
+        "title": "Dell Inspiron 5430(Silver) i5-1340P-16GB-512GB-RTX™ 2050-14-inch 2.5K-Win11H-MS Office 2021"
+      },
+
+      {
+        "description": "CPU: Apple M3 Pro chip 12-core, OS: macOS, RAM: 36GB unified memory, Storage: 512GB SSD, Graphic: Integrated 18-core GPU, Display: 16.2-inch (3456-by-2234), Battery: Up to 15hours, Weight: 2.14kg, Warranty: 1 year",
+        "oldPrice": 3499,
+        "imageUrl": [
+          "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Apple%20macbook%20m3%20pro.png?alt=media&token=2d12b2e2-19de-47de-95d4-cba4cdeff676"
+        ],
+        "price": 3389,
+        "rating": 4.9,
+        "review": 2,
+        "title": "Apple Macbook Pro 16.2-inch M3 Pro chip CPU 12-core and 18-core GPU-36GB-512GB-Space Black (MRW23ZP/A)1Y"
+      },
+
+      {
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. ",
+        "oldPrice": 320,
+        "imageUrl": [
+          "https://firebasestorage.googleapis.com/v0/b/project186-de05e.appspot.com/o/item5.png?alt=media&token=65f7648d-99fd-4ae1-b6bf-778f8fa46c04"
+        ],
+        "price": 390,
+        "rating": 4.4,
+        "review": 9,
+        "title": "Professional Camera"
+      },
+      
+      {
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. ",
+        "oldPrice": 800,
+        "imageUrl": [
+          "https://firebasestorage.googleapis.com/v0/b/project186-de05e.appspot.com/o/item6.png?alt=media&token=dd526c8e-66df-448d-a51f-fa4dbdef6970"
+        ],
+        "price": 650,
+        "rating": 4.5,
+        "review": 7,
+        "title": "Powerful Laptop"
+      },
+
+      {
+        "description": "CPU: Intel® Celeron® N4500, OS: Window 11 Home SL License, RAM: 4GB DDR4 SO-DIMM, Storage: SSD 512GB M.2, Graphic: Intel® UHD Graphics, Display: 14'' FHD (1920 x 1080), Battery: 2-cell integrated, Weight: 1.60 kg, Warranty: 2years",
+        "oldPrice": 289 ,
+        "imageUrl": [
+          "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Asus%20X425.png?alt=media&token=2d6cc7db-362d-4c82-a214-2d36ef8227ef",
+          "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Asus%20X425%20-%202.png?alt=media&token=eb494009-9ec7-4463-9968-4952e93f7f58",
+          "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Asus%20X425%20-%203.png?alt=media&token=17a0c8dd-da8f-4b36-a1e0-be1e683c6245"
+        ],
+        "price": 279,
+        "rating": 4.7,
+        "review": 12,
+        "title": "ASUS X415 X1400KA-EK180W Black Celeron N4500-4GB-512GB SSD-14 FHD(1920 x 1080)16:9-BP-Win11H-2Y "
+      },
+
+      {
+        "description": "CPU: Intel® Core™ i7-1355U OS: DOS, RAM: 16GB DDR4 3200MHz, Storage: SSD 512GB M.2, Graphic: Intel® Iris™ Xe graphics, Display: 16 WUXGA (1920x1200) IPS, Battery: 3 Cell Li-Polymer, Weight: 1.76 kg, Warranty: 1 years",
+        "oldPrice": 919 ,
+        "imageUrl": [
+          "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Lenovo%20ThingPad%20E16%20-%201.png?alt=media&token=22bd5098-d60b-4cc7-9391-8eee5401bc14",
+          "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Lenovo%20ThingPad%20E16%20-%202.png?alt=media&token=5dd14f68-c3f3-4914-8b4d-e703e3e32131",
+          "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Lenovo%20ThingPad%20E16%20-%203.png?alt=media&token=64e04a5f-da13-4f3d-b01c-93c2dfd7f9ef"
+        ],
+        "price": 900,
+        "rating": 5.0,
+        "review": 26,
+        "title": "Lenovo ThinkPad E16 Gen1 Black i7-1355U-16GB-512GB SSD M.2-16 WUXGA-WLAN-FP-DOS (1Y) "
+      },
+
+    
+      {
+        "description": "CPU: 13th Gene Intel Core i3-1315U, OS: DOS, RAM: 8GB LPDDR5 Onboard, Storage: SSD  512GB  M.2, Graphic: Intel® Iris® Xe Graphics, Display : 14'' WUXGA IPS , Battery: 3-cell integrated, Weight:  1.54kg, Warranty: 2 years",
+        "oldPrice": 499 ,
+        "imageUrl": [
+          "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/Acer%20Aspire5.png?alt=media&token=30afd69d-ceb0-486d-8fc6-0c0984bee3b0"
+        ],
+        "price": 389,
+        "rating": 4.6,
+        "review": 5,
+        "title": "Acer Aspire5 A514-56M-36D5-Ci3-1315U-14 WUXGA IPS-8G-512G-No ODD-UMA-WIFI6E+BT-BLK-Gray (2Y) "
+      },
+
+      {
+        "description": "CPU: M2 Max chip 12-core, OS: macOS, RAM: 32GB unified (Onboard), Storage: 1TB SSD, Graphic: Integrated 30-core GPU, Display: 14.2-inch (3024-by-1964), Battery: Up to 18 hours, Weight: (1.63 kg), Warranty: 1 year",
+        "oldPrice": 3189 ,
+        "imageUrl": [
+          "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/MacBook%20Pro%2014-M2%201.png?alt=media&token=f6963619-9d73-48de-a725-b4cdca6ae0bd",
+          "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/MacBook%20Pro%2014-M2%202.png?alt=media&token=c502aabe-5742-4798-989d-6c2b3a4baeef"
+        ],
+        "price": 3179,
+        "rating": 4.9,
+        "review": 27,
+        "title": "MacBook Pro 14-M2 Max chip-CPU-12core and 30core GPU-32G-1TB SSD-14 Space Grey (MPHG3ZP/A) 1Y "
+      },
+
+      {
+        "description": "CPU:  M2 Max chip 12-core , OS: macOS, RAM: 32GB unified (Onboard), Storage: 1TB SSD, Graphic: Integrated 38-core GPU, Display: 16.2-inch (3456-by-2234), Battery: Up to 22 hours, Weight: (2.16 kg), Warranty: 1 year",
+        "oldPrice": 3589 ,
+        "imageUrl": [
+          "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/MacBook%20Pro%2016%20M2%20-%201.png?alt=media&token=b0f4c956-e260-4538-b31e-738b147e6b3f",
+          "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/MacBook%20Pro%2016%20M2%20-%202.png?alt=media&token=508686c8-545c-4a89-ad9d-42d78f21afab",
+          "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/MacBook%20Pro%2016%20M2%20-%203.png?alt=media&token=669ac9a8-ad91-46a2-99f2-7b748ef30ff3",
+          "https://firebasestorage.googleapis.com/v0/b/mad-project-practicum.appspot.com/o/MacBook%20Pro%2016%20M2%20-%204.png?alt=media&token=56a2fc03-f54e-4c76-9a30-5f00b19b5918"
+        ],
+        "price": 3559,
+        "rating": 4.4,
+        "review": 10,
+        "title": "MacBook Pro 16-M2 Max Chip-CPU 12 core and 38Core-GPU-32GB-1TB SSD-16'' Silver (MNWE3ZP/A)  "
+      }
+      
+    ]
+  }
