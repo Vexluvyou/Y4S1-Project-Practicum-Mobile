@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # projectpracticum
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Y4S1-Project-Practicum-Mobile
+>>>>>>> 223f31f15805488d72ecdec3506b3303f688a960
